@@ -8,13 +8,13 @@ Then, run the development server:
 
 ```bash
 deno run --allow-env --allow-read --allow-net index4.js
-# or
 ```
 
 Then run the frontend:
 ```bash
 npm run dev
-# or
 ```
 
 Then you got yourself a pretty powerful little RAG-based chatbot that answers questions on the data!
+
+I will be tidying this up, I swear....
