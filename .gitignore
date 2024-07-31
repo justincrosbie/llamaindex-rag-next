@@ -1,0 +1,4 @@
+node_modules
+nextrag/node_modules
+.env
+deno.lock
