@@ -1,4 +1,4 @@
-This is a a little chatbot that uses RAG with OpenAI API via llamaindex to query your data. In Javascript! It has a little Next.JS frontend
+This is a little chatbot that uses RAG with OpenAI API via llamaindex to query your data. In Javascript! It has a little Next.JS frontend
 
 ## Getting Started
 
@@ -17,4 +17,4 @@ npm run dev
 
 Then you got yourself a pretty powerful little RAG-based chatbot that answers questions on the data!
 
-I will be tidying this up, I swear....
+I will be tidying this up, I swear...
